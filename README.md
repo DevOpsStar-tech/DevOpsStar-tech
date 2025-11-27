@@ -4,7 +4,7 @@
   <img src="https://drive.google.com/uc?export=view&id=1qsn32ZCe8FJz3EnjatJIxeyFo0iXi6I3" alt="DevOps Banner" width="100%"/>
 </p>
 
-# 👋 Hi, I'm **Tomak Pro**  
+# 👋 Hi, I'm **Oleksandr Dzyhanovskyi**  
 ### 🚀 DevOps Engineer | Former Security Engineer | Cloud & Automation Specialist
 
 I'm a DevOps Engineer with several years of prior experience as a **Security Engineer**. I focus on building secure, scalable, automated systems using modern DevOps practices combined with strong security principles.
