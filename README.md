@@ -42,6 +42,22 @@ I specialize in:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+
+## 🌟 Achievements & Certifications
+
+Here are some of my recent achievements and certifications:
+![Kubernetes Badge](https://img.shields.io/badge/Certified%20Kubernetes-blue)
+![DevOps Badge](https://img.shields.io/badge/Certified%20DevOps-Green)
+![Docker Badge](https://img.shields.io/badge/Docker%20Certified-blue)
+
+---
+
+## 🏢 **Organizations I Belong To**
+
+I am actively involved in the following GitHub Organizations:
+[![Organization 1](https://img.shields.io/badge/Org%20Name-Joined-blue)](https://github.com/organization1)
+[![Organization 2](https://img.shields.io/badge/Org%20Name-Joined-blue)](https://github.com/organization2)
+
 ---
 
 # 🏆 Achievements & Badges
